@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.nav {
+   
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+
+}
+
+
+.nav2 {
+  display: flex;
+  gap: 30px;
+}
+
+.btn {
+  padding: 20px 20px;
+  margin: 10px 10px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  transform: scale(1)
+}
